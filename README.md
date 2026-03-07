@@ -5,16 +5,23 @@ In this project, I developed an interactive Sales & Profitability Dashboard to a
 🔍 Key Highlights:
 
 🔹 Yearly & Monthly Sales Trend Analysis
+
 🔹 Country-wise Sales Performance Visualization
+
 🔹 Make-wise and Model-wise Sales Breakdown
+
 🔹 Profitability Analysis using Treemap
+
 🔹 KPI Cards for Total Sales, Total Profit, and Total Discount
 
 💡 Key Insights:
 
 🔹 United Kingdom recorded the highest overall sales
+
 🔹 Aston Martin generated the highest sales among all brands
+
 🔹 Models like DB9 and XK contributed significantly to total revenue
+
 🔹 Sales trend shows strong growth in recent years
 
 🛠 Skills Applied:
@@ -26,8 +33,10 @@ This project helped me strengthen my ability to transform raw data into meaningf
 ---
 
 ## 📁 Project Files
-- Sales & Profitability Dashboard .Tableau Project-1.docx-Main interactive dashboard file
-- Sales and Profitability Dashboard Preview.png-Dashboard preview image
+- Sales & Profitability Dashboard .Tableau Project-1.docx-
+  Main interactive dashboard file
+- Sales and Profitability Dashboard Preview.png-
+  Dashboard preview image
 
 ---
 
