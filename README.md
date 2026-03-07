@@ -1,33 +1,26 @@
-# 📊 Sales and Profitability Dashboard | Tableau Project
+# 📊 Sales and Profitability Dashboard | Tableau 
 
-An interactive **Sales and Profitability Dashboard** developed using **Tableau** to analyze business performance across countries, brands, and product models. This project highlights key sales trends and profitability insights through dynamic visualizations.
+In this project, I developed an interactive Sales & Profitability Dashboard to analyze sales performance, profitability trends, and brand-wise contributions across different countries.
 
----
+🔍 Key Highlights:
+🔹 Yearly & Monthly Sales Trend Analysis
+🔹 Country-wise Sales Performance Visualization
+🔹 Make-wise and Model-wise Sales Breakdown
+🔹 Profitability Analysis using Treemap
+🔹 KPI Cards for Total Sales, Total Profit, and Total Discount
 
-## 🔍 Key Insights
-- Yearly and Monthly Sales Trends  
-- Profitability Analysis across segments  
-- Country-wise Sales Comparison  
-- Make-wise Sales Distribution  
-- Model-wise Sales Performance  
+💡 Key Insights:
+🔹 United Kingdom recorded the highest overall sales
+🔹 Aston Martin generated the highest sales among all brands
+🔹 Models like DB9 and XK contributed significantly to total revenue
+🔹 Sales trend shows strong growth in recent years
 
----
+🛠 Skills Applied:
+Data Cleaning | Data Visualization | Tableau Dashboard Design | Trend Analysis | Business Insight Generation
 
-## 🛠 Tools & Technologies
-- **Tableau** – Dashboard design and visualization  
-- Data Cleaning and Preparation  
+This project helped me strengthen my ability to transform raw data into meaningful business insights through interactive dashboards.
 
----
 
-## 📌 Dashboard Features
-- Interactive filters for **Country, Make, Model, and Sale Price**
-- KPI indicators for **Total Sales, Total Profit, and Discounts**
-- Visual analysis using trend lines, treemaps, pie charts, and bubble charts
-
----
-
-## 🎯 Project Objective
-To convert raw sales data into an interactive **business intelligence dashboard** that helps in tracking performance, identifying profitable segments, and supporting data-driven decision-making.
 
 ---
 
